@@ -54,7 +54,7 @@ function App() {
         {/* HEADER */}
         <div
           className="header glitch"
-          data-text="NEURAL INTERFACE // ONLINE"
+          data-text="NEURAL INTERFACE"
         >
           NEURAL INTERFACE // ONLINE
         </div>
